@@ -13,9 +13,10 @@ header {
     padding: 20px 40px;
 }
 
-header img {
+header .logo {
     width: 20%;
 }
+
 
 /* Contenuto iniziale */
 main  {
@@ -89,6 +90,30 @@ footer {
 footer .more {
     font-size: 20px;
     color: rgb(183, 183, 183);
+}
+
+footer .first-image {
+    height: 200px;
+    width: 300px;
+    background-image: url('../img/monitor.jpg');
+    margin-top: 10px;
+}
+
+footer .first-image h3 {
+    color: white;
+    padding: 12px;
+}
+
+footer .second-image {
+    height: 200px;
+    width: 300px;
+    background-image: url('../img/graph.jpg');
+    margin-top: 10px;
+}
+
+footer .second-image h3 {
+    color: white;
+    padding: 12px;
 }
 
 
