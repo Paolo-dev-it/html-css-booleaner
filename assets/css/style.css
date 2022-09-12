@@ -10,7 +10,7 @@ header {
     background-color: rgb(78, 160, 255);
     background-repeat: repeat;
     background-size: 40%;
-    padding: 20px 40px;
+    padding: 20px 140px;
 }
 
 header .logo {
@@ -53,6 +53,7 @@ main #first-part p {
 
 #images-part ul {
     font-size: 19px;
+    list-style-position: inside;
 }
 /* Tabella */
 table {
