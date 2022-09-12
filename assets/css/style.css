@@ -53,6 +53,16 @@ main #first-part p {
 #images-part ul {
     font-size: 19px;
 }
+/* Tabella */
+table {
+    border-spacing: 0;
+}
+
+#table-part thead {
+    background-color: rgb(78, 160, 255);
+    color: white;
+
+}
 
 
 
