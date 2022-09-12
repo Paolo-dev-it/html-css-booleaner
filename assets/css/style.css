@@ -40,10 +40,17 @@ main #first-part p {
 #first-part p .author {
     color: rgb(55, 176, 232);
 }
-
+/* Didascalie immagini */
 #images-part .photo-caption, p {
     font-size: 15px;
 }
+
+#images-part .first-paragraph {
+    font-size: 19px;
+    font-weight: 500;
+}
+
+
 
 
 
