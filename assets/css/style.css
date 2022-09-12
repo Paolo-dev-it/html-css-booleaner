@@ -37,9 +37,15 @@ main #first-part p {
     color: rgb(183, 183, 183);
 }
 
-main #first-part p .author {
+#first-part p .author {
     color: rgb(55, 176, 232);
 }
+
+#images-part .photo-caption, p {
+    font-size: 15px;
+}
+
+
 
 
 
