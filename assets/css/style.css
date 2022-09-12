@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 
-
+/* Intestazione */
 header {
     background-image: url('../img/pattern.png');
     background-color: rgb(78, 160, 255);
@@ -14,7 +14,9 @@ header {
 }
 
 header img {
-    width: 25%;
+    width: 20%;
 }
+
+
 
 
