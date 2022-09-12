@@ -31,6 +31,14 @@ main #first-part h1{
     font-weight: 900;
 }
 
+#images-part .lee-image-1 {
+    width: 48%;
+}
+
+#images-part .lee-image-2 {
+    width: 41%;
+}
+
 main #first-part p {
     color: rgb(183, 183, 183);
     font-size: 20px;
