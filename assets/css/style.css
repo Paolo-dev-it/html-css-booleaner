@@ -141,6 +141,7 @@ footer .first-image {
     width: 300px;
     background-image: url('../img/monitor.jpg');
     margin-top: 10px;
+    background-repeat: no-repeat;
 }
 
 footer .first-image h3 {
