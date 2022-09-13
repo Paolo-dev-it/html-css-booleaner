@@ -15,7 +15,6 @@ header {
 
  .logo {
     height: 80px;
-
 }
 
 .container {
@@ -55,6 +54,10 @@ main #first-part p {
 
 #first-part p .author {
     color: rgb(55, 176, 232);
+}
+
+#first-part .date {
+    font-size: 13px;
 }
 /* Didascalie immagini */
 #images-part .photo-caption, p {
